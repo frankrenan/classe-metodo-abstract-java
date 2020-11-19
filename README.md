@@ -26,3 +26,5 @@ funcionários, ela paga 14% de imposto.
 # Exemplo: 
 uma empresa cuja renda foi 400000.00 e possui 25 funcionários, o imposto fica:
 400000 * 14% = 56000.00
+
+Diagrama de classe.jpg
