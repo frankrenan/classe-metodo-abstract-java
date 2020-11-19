@@ -27,4 +27,4 @@ funcionários, ela paga 14% de imposto.
 uma empresa cuja renda foi 400000.00 e possui 25 funcionários, o imposto fica:
 400000 * 14% = 56000.00
 
-Diagrama de classe.jpg
+https://github.com/frankrenan/classe-metodo-abstract-java/blob/master/Diagrama%20de%20classe.jpg
